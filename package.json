@@ -1,0 +1,31 @@
+{
+  "name": "mongoose-cache-queue",
+  "version": "0.0.1",
+  "description": "A helpful mongoose cache which accepts generic cache objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/influentialpublishers/mongoose-cache-queue.git"
+  },
+  "keywords": [
+    "mongoose",
+    "cache",
+    "caching",
+    "redis",
+    "mongodb",
+    "mongo",
+    "db"
+  ],
+  "author": "Piotr Tomasik <piotr@tomasik.co> (http://piotrtomasik.com/)",
+  "contributors": [
+    "Nathan Sculli <scull7@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/influentialpublishers/mongoose-cache-queue/issues"
+  },
+  "homepage": "https://github.com/influentialpublishers/mongoose-cache-queue"
+}
